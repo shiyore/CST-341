@@ -1,5 +1,0 @@
-<tiles-definitions>
-	<definition name="DefaultTemplate" template="/WEB-INF/"
-		<put-attribute> </put-attribute>
-	</definition>
-</tiles-definitions>
